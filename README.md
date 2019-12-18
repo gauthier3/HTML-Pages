@@ -1,2 +1,2 @@
-# Pacamon-Table-
-This is my first HTML Table as I start my journey in Web development. 
+HTML Pages
+These are a few of my first HTML pages as I start my journey in Web development. 
